@@ -1,0 +1,5 @@
+/home/noak/Desktop/Programms/CLion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/noak/Desktop/Study/Track/Track-2/PhysKek
+-- Found SFML .. in /usr/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/noak/Desktop/Study/Track/Track-2/PhysKek/cmake-build-debug

@@ -1,0 +1,3 @@
+/home/noak/Desktop/Study/Track/Track-2/PhysKek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/noak/Desktop/Study/Track/Track-2/PhysKek/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/noak/Desktop/Study/Track/Track-2/PhysKek/cmake-build-debug/CMakeFiles/PhysKek.dir
