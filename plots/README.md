@@ -1,3 +1,3 @@
 Data from "experiments"
 ---
-plots of distribution of molecules in gas
+graphs of velocity distribution of molecules
